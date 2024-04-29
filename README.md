@@ -1,4 +1,4 @@
-# LinkedIn Data Analytics Project
+# LinkedIn Data Engineering and Analytics Project
 
 ## About the Project
 
