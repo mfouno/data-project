@@ -24,8 +24,7 @@ More data domains are available on the Linkedin Member Snapshot API as you can s
 
 ```plaintext
 /
-├── fetch-linkedin-api/                  # Python script to request linkedin Member Snapshot API
-├── etl-linkedin-data/               # Python scripts for data collection and transformation
+├── etl-linkedin-data/               # Python scripts to request linkedin Member Snapshot API, data collection and transformation
 ├── linkedin-data-analysis/             # Data exploration and preliminary analyses
 └── README.md
 ```
